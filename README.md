@@ -15,19 +15,6 @@ This is a simple Flutter application that fetches movie data from the [TVMaze AP
 - Bottom navigation for easy navigation between the Home and Search screens.
 - Smooth transitions between the app's screens.
 
-## Screenshots
-
-### Splash Screen
-![Splash Screen](assets/splash_image.png)
-
-### Home Screen
-![Home Screen](assets/home_screen.png)
-
-### Search Screen
-![Search Screen](assets/search_screen.png)
-
-### Details Screen
-![Details Screen](assets/details_screen.png)
 
 ## API Used
 
